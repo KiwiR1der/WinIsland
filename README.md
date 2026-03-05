@@ -36,7 +36,7 @@
 ## Community
 Join the WinIsland user group:
 
-![WinIsland Community Group](assets/705fa98888b161b6c205756a11aeebfa.jpg)
+<img src="assets/705fa98888b161b6c205756a11aeebfa.jpg" alt="WinIsland Community Group" width="320" />
 
 ## Download
 - Installer package: `installer/output/WinIsland-Setup-v1.0.0.exe`
@@ -57,4 +57,5 @@ dotnet publish WinIsland.csproj -c Release -r win-x64 --self-contained true -p:P
 ## Support This Project
 If WinIsland helps you, please give this repository a star.
 Your star helps more people discover and use it.
+
 

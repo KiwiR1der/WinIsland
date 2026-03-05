@@ -13,5 +13,6 @@ If you like this project, please give it a star.
 ## Community
 Join the WinIsland user group:
 
-![WinIsland Community Group](assets/705fa98888b161b6c205756a11aeebfa.jpg)
+<img src="assets/705fa98888b161b6c205756a11aeebfa.jpg" alt="WinIsland Community Group" width="320" />
+
 
