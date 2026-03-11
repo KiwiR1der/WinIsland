@@ -33,8 +33,7 @@ namespace WinIsland
         public string FontFamily { get; set; } = "Segoe UI";
         public double FontSize { get; set; } = 14;
         public string DefaultFontFamily { get; set; } = "Segoe UI";
-        public double DefaultFontSize { get; set; } = 14;
-
+        public double DefaultFontSize { get; set; } = 12;
 
 
         private static string ConfigPath => Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "settings.json");
